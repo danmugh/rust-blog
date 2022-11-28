@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mbvisti/awesome-blog">
     <img src="https://raw.githubusercontent.com/nabijaczleweli/termimage/master/assets/rust-logo-truecolor.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Rust Blog</h3>
 </div>
